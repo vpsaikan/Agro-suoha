@@ -39,7 +39,8 @@
 * **🚀服务模式（固定 Tunnel）**
 需要 CF 托管域名并绑定 Argo 隧道
 重启后仍然保持服务运行
-自动优选 CF Argo 节点
+
+均可自动优选 CF Argo 节点
 支持 VMess 和 VLESS 协议
 无需公网 IP，无需端口转发，极致隐藏
 
@@ -82,12 +83,12 @@ bash <(curl -sL [https://raw.githubusercontent.com/ttttwei/Agro-suoha/main/suoha
 ```
 **📌根据菜单选择模式**
 
-* **1 梭哈模式（无需cloudflare域名重启会失效！）**
-* **2 安装服务（需要cloudflare域名重启不会失效！）**
-* **3 卸载服务**
-* **4 清理缓存**
-* **5 管理服务**
-* **0.退出脚本**
+1 梭哈模式（无需cloudflare域名重启会失效！）  
+2 安装服务（需要cloudflare域名重启不会失效！）  
+3 卸载服务  
+4 清理缓存  
+5 管理服务  
+0.退出脚本
 
 * **📌服务安装完成,管理服务请运行命令  suoha 可进行查看链接,启动停止重启卸载,管理TUNNEL等操作**
 
