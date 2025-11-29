@@ -52,14 +52,16 @@
 5. 为避免任何意外后果或法律风险，使用者应在使用本项目代码后的 24 小时内删除代码。
 
 通过使用本项目代码，使用者即表示理解并同意本免责声明的所有条款。如使用者不同意这些条款，应立即停止使用本项目。
-
+作者保留随时更新本免责声明的权利，且不另行通知。最新版本的免责声明将发布在本项目的 GitHub 页面上。
 ## 💻 一键安装 (Quick Start)
 
 在您的 VPS 终端中执行以下命令即可（支持 Debian / Ubuntu / CentOS / Alpine）：
 
-**方式一：官方短链接（推荐）**
+**方式一：短链接（推荐）**
 ```bash
 bash <(curl -sL suoha.ggff.net | tr -d '\r')
-
-作者保留随时更新本免责声明的权利，且不另行通知。最新版本的免责声明将发布在本项目的 GitHub 页面上。
-
+```
+**方式二：GitHub 原始链接（备用）**
+```bash
+bash <(curl -sL [https://raw.githubusercontent.com/ttttwei/Agro-suoha/main/suoha.sh](https://raw.githubusercontent.com/ttttwei/Agro-suoha/main/suoha.sh) | tr -d '\r')
+```
