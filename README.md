@@ -54,7 +54,7 @@ No public IP, no port forwarding, fully stealth
 
 ## ⚠️ Disclaimer
 
-本免责声明适用于 GitHub 上的 “Agro-suoha” 项目（以下简称“本项目”）。
+This disclaimer applies to the "Argo-suoha" project on GitHub (hereinafter referred to as "this project").
 
 ### Purpose
 The Project is designed and developed solely for educational, research, 和 security testing purposes.
